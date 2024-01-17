@@ -1,1 +1,1 @@
-# webgraphics
+# webgraphics project page
