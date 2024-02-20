@@ -1,0 +1,102 @@
+@charset "utf-8";
+	.studio81-logo
+{
+	background-image : url(studio81-logo.png);
+	background-repeat : no-repeat;
+}
+.header-bkg
+{
+	background-image : url(header-bkg.png);
+	background-repeat : no-repeat;
+}
+.nav-bkg
+{
+	background : #FF0009;
+	background : rgba(255, 0, 9, 1);
+}
+.home-feature
+{
+	background-image : url(home-feature.png);
+	background-repeat : no-repeat;
+}
+.main-text
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.footer-bkg
+{
+	background-image : url(footer-bkg.png);
+	background-repeat : no-repeat;
+}
+.nav3
+{
+	font-family : ATC Onyx;
+	font-size : 21px;
+	line-height : 34px;
+	letter-spacing : 1.05px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+nav
+{
+	font-family : ATC Onyx;
+	font-size : 21px;
+	line-height : 34px;
+	letter-spacing : 1.05px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.nav1
+{
+	font-family : ATC Onyx;
+	font-size : 21px;
+	line-height : 34px;
+	letter-spacing : 1.05px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.nav2
+{
+	font-family : ATC Onyx;
+	font-size : 21px;
+	line-height : 34px;
+	letter-spacing : 1.05px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+body
+{
+	background : -moz-linear-gradient(50% 0% -90deg,rgba(255, 188, 0, 1) 0%,rgba(35, 31, 32, 1) 100%);
+	background : -webkit-linear-gradient(-90deg, rgba(255, 188, 0, 1) 0%, rgba(35, 31, 32, 1) 100%);
+	background : -webkit-gradient(linear,50% 0% ,50% 100% ,color-stop(0,rgba(255, 188, 0, 1) ),color-stop(1,rgba(35, 31, 32, 1) ));
+	background : -o-linear-gradient(-90deg, rgba(255, 188, 0, 1) 0%, rgba(35, 31, 32, 1) 100%);
+	background : -ms-linear-gradient(-90deg, rgba(255, 188, 0, 1) 0%, rgba(35, 31, 32, 1) 100%);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFBC00', endColorstr='#231F20' ,GradientType=0)";
+	background : linear-gradient(180deg, rgba(255, 188, 0, 1) 0%, rgba(35, 31, 32, 1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFBC00',endColorstr='#231F20' , GradientType=0);
+}
+p
+{
+	font-family : ATC Onyx;
+	font-size : 12px;
+	line-height : 20px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+h1
+{
+	font-family : ATC Onyx;
+	font-size : 32px;
+	line-height : 22.05px;
+	color : #FF0009;
+	color : rgb(255, 0, 9);
+}
+footer
+{
+	font-family : ATC Onyx;
+	font-size : 9px;
+	line-height : 19.37px;
+	color : #DCDDDE;
+	color : rgb(220, 221, 222);
+}
